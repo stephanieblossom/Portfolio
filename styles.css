@@ -1,0 +1,5 @@
+.square {
+    width: 200px; /* Set the desired width for the square image */
+    height: 200px; /* Set the desired height for the square image (equal to the width) */
+    object-fit: cover; /* This ensures the image maintains its aspect ratio while filling the entire square */
+  }
